@@ -14,7 +14,7 @@ while True:
  if continuar == "no":  
     break
 
-print("programa finalizado")
+print("Gracias por utilizar el programa")
 
 
 

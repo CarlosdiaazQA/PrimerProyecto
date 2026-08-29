@@ -23,3 +23,4 @@ Este repositorio contiene mis primeros ejercicios realizados durante mi aprendiz
 ## Objetivo
 
 Desarrollar mis conocimientos de programación y control de versiones, avanzando progresivamente hacia proyectos relacionados con QA y automatización de pruebas.
+- `acceso.py` - Programa de control de acceso según la edad, utilizando condicionales y validación de datos.
